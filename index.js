@@ -1,6 +1,6 @@
 const result = (n)=>{
 
-    let arr = [0,1]
+    let arr = [1,1]
     for(let i = 2; i < n; i++){
         let num1 = arr[i-1]
         let num2 = arr[i-2]
